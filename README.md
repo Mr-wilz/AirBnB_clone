@@ -37,12 +37,9 @@ This is a joint endeavor between Felicity Essien and Dennis Makaka aimed at deve
 *`README.md`: This file providing information about the project.*
 *`file_storage.py`: The file storage engine script.*
 
-## Collaboration
- Felicity Essien and Dennis Makaka will collaborate closely throughout the development process. They will divide tasks based on their individual strengths and expertise, regularly communicate progress, and provide feedback to each other to ensure the project's success.
+## Arthor:
+### Wilfort Abel
 
- <u>Author:</u>
-
-        Wilfort Abel
 ## Usage
  Run the command interpreter:
  _python3 console.py_ or _./console.py_
